@@ -15,7 +15,7 @@ sections:
     content:
       title: Skills
       items:
-      - name: Python
+        - name: Python
           description: 爬虫、后端、生信分析流程
           icon: python
           icon_pack: fab
