@@ -24,7 +24,7 @@ sections:
           icon: r-project
           icon_pack: fab
         - name: 分子生物学实验
-          description: 10%
+          description: 玉米原生质体转化等
           icon: flask-vial
           icon_pack: fa
   - block: experience
