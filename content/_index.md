@@ -23,9 +23,9 @@ sections:
           description: 数据分析及可视化
           icon: r-project
           icon_pack: fab
-        - name: Photography
+        - name: 分子生物学实验
           description: 10%
-          icon: camera-retro
+          icon: corn
           icon_pack: fas
   - block: experience
     content:
