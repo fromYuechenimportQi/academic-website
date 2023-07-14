@@ -25,8 +25,8 @@ sections:
           icon_pack: fab
         - name: 分子生物学实验
           description: 10%
-          icon: corn
-          icon_pack: fas
+          icon: flask-vial
+          icon_pack: fa
   - block: experience
     content:
       title: Experience
