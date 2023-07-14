@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 生物与医药
+    - course: 生物与医药(硕士)
       institution: 云南大学
       year: 2021-2024
     - course: 植物保护(本科)
@@ -51,15 +51,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/fromYuechenimportQi
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/个人简历.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
