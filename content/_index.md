@@ -23,10 +23,10 @@ sections:
           description: 数据分析及可视化
           icon: r-project
           icon_pack: fab
-        - name: Photography
+        - name: 分子生物学实验
           description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: flask-vial
+          icon_pack: fa
   - block: experience
     content:
       title: Experience
