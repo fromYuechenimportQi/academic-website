@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-07-16
 type: landing
 
 sections:
@@ -25,6 +25,7 @@ sections:
           icon_pack: fab
         - name: 分子生物学实验
           description: 玉米原生质体转化等
+          # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
           icon: flask-vial
           icon_pack: fa
   - block: portfolio
@@ -44,10 +45,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Django
+          tag: Django
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

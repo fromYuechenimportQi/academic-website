@@ -22,7 +22,7 @@ organizations:
     url: http://www.kib.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include molecular biology, bioinformatics and web development.
 
 # Interests to show in About widget
 interests:
@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: 生物与医药(硕士)
-      institution: 云南大学
+      institution: 昆明植物研究所（云南大学联合培养）
       year: 2021-2024
     - course: 植物保护(本科)
       institution: 海南大学
@@ -65,5 +65,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
