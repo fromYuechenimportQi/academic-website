@@ -17,6 +17,10 @@ links:
     icon_pack: fa
     name: Jump to
     url: http://210.72.89.18:7382/
+  - icon: github
+    icon_pack: fab
+    name: source code
+    link: https://github.com/fromYuechenimportQi/ParasiticPlantBase
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -38,3 +42,4 @@ url_video: ''
 基因可视化调用<a href='https://jbrowse.org/jb2/'>Jbrowse2包</a>，该包根据后端提供的genome.fasta和genome.gff文件，通过React框架直接在前端进行可视化。
 
 基因比对使用NCBI的BLAST+软件，比对结果输出XML格式文件，经解析后在前端进行渲染。
+
