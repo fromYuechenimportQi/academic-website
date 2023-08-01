@@ -20,7 +20,7 @@ links:
   - icon: github
     icon_pack: fab
     name: source code
-    link: https://github.com/fromYuechenimportQi/ParasiticPlantBase
+    url: https://github.com/fromYuechenimportQi/ParasiticPlantBase
 url_code: ''
 url_pdf: ''
 url_slides: ''
